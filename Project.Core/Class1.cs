@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project.Core
 {
-    public class Class1
+    public class Repository
     {
     }
 }
